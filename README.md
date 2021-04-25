@@ -1,3 +1,3 @@
 # Alien_attack
-My little pygame project. Based on "FreeCodeCamp" tutorial /n
+My little pygame project. Based on "FreeCodeCamp" tutorial 
 Thank you GIT for your excellence))
