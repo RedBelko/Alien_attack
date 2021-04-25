@@ -167,5 +167,3 @@ while running:
     player()
     # clock.tick(60)
     pygame.display.update()  # Обновляем экран
-print('Привет как дела'
-      'иди нафиг азаза')
