@@ -1,6 +1,7 @@
 import pygame
 import random
 from math import sqrt, pow
+import time
 
 # Инициализирует pygame
 pygame.init()
